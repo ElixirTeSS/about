@@ -24,7 +24,7 @@ Discussions on TeSS upcoming developments, feature requests, suggestions, and re
 Join us on the ELIXIR Workspace #tess_club <https://elixir-europe.slack.com/archives/C0262CVJSC9>
 
 ## Mailing List
-[tess@elixir-europe.org](https://lists.elixir-europe.org/mailman/listinfo/tess_elixir-europe.org)
+[TESS-CLUB@LISTSERV.MANCHESTER.AC.UK](https://listserv.manchester.ac.uk/cgi-bin/wa?SUBED1=TESS-CLUB&A=1)
 
 # Project Resources
 ## TeSS Deployments
