@@ -76,7 +76,7 @@ ELIXIR Implementation Study (Learning Paths).
 
 BBSRC UK (Delivering ELIXIR-UK grant, grant agreement numbers [BB/L005050/1](https://bbsrc.ukri.org/research/grants/grants/AwardDetails.aspx?FundingReference=BB/L005050/1) & [BB/L005069/1](https://bbsrc.ukri.org/research/grants-search/AwardDetails/?FundingReference=BB/L005069/1)).
 
-[![Logo of OSCARS EU funding](images/OSCARS-logo-EUflag.svg)](https://oscars-project.eu/)
+[![Logo of OSCARS EU funding](images/OSCARS-logo-EUflag.png)](https://oscars-project.eu/)
 
 [![Logo of BioFAIR](images/biofair.png)](https://biofair.uk/)
 [![Flag of the European Union](images/eu_flag.png)](https://cordis.europa.eu/project/rcn/198519_en.html)
