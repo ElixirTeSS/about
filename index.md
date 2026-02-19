@@ -18,7 +18,7 @@ Email: <tess-support@googlegroups.com>
 
 Discussions on TeSS upcoming developments, feature requests, suggestions, and related activities.
 
-**When**: Every two weeks @ 9:00 GMT / 10:00 CET on a Tuesday
+**When**: Monthly, 2nd Tuesday @ 9:00 GMT/BST / 10:00 CE(S)T 
 
 **Meeting minutes and connection details** <https://docs.google.com/document/d/1nLa6ye6kYBuE0UJgRoqdSakZP94vb2RgQZssyvRCXig/edit?tab=t.0>
 
