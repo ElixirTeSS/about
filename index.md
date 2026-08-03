@@ -27,7 +27,8 @@ Discussions on TeSS upcoming developments, feature requests, suggestions, and re
 * Join us on the [TeSS Platform Slack space](https://join.slack.com/t/tessplatform/shared_invite/zt-3erpke7ph-6t2~_EqUlL_tRkOrNAbb2A) to collaborate with the wider community of TeSS outside of ELIXIR.
 
 ## Mailing List
-[TESS-CLUB@LISTSERV.MANCHESTER.AC.UK](https://listserv.manchester.ac.uk/cgi-bin/wa?SUBED1=TESS-CLUB&A=1)
+* The TeSS Club mailing list is available at [TESS-CLUB@LISTSERV.MANCHESTER.AC.UK](https://listserv.manchester.ac.uk/cgi-bin/wa?SUBED1=TESS-CLUB&A=1)
+* To request access, please send an email <tess-support@googlegroups.com>
 
 # Project Resources
 ## TeSS Deployments
